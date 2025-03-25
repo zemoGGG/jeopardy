@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=3 uid="uid://dk5djh1qo7ca2"]
+
+[ext_resource type="Script" uid="uid://bybjs4hu5itl1" path="res://board/clue/clue.gd" id="1_ee6li"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_6c12b"]
+font_size = 64
+font_color = Color(0.94902, 0.996078, 0.415686, 1)
+outline_size = 5
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 12
+shadow_color = Color(0, 0, 0, 1)
+
+[node name="Clue" type="Control"]
+layout_mode = 3
+anchor_right = 0.15
+anchor_bottom = 0.171
+offset_bottom = -0.120003
+size_flags_horizontal = 3
+size_flags_vertical = 3
+size_flags_stretch_ratio = 0.0
+script = ExtResource("1_ee6li")
+metadata/_edit_use_anchors_ = true
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 192.0
+offset_bottom = 123.0
+color = Color(0.0782133, 0.0616, 0.56, 1)
+
+[node name="ValueLabel" type="Label" parent="."]
+layout_mode = 0
+offset_right = 192.0
+offset_bottom = 123.0
+text = "$200"
+label_settings = SubResource("LabelSettings_6c12b")
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3

@@ -12,10 +12,7 @@ shadow_color = Color(0, 0, 0, 1)
 
 [node name="Clue" type="Control"]
 layout_mode = 3
-anchor_right = 0.15
-anchor_bottom = 0.171
-offset_bottom = -0.120003
-size_flags_horizontal = 3
+anchors_preset = 0
 size_flags_vertical = 3
 size_flags_stretch_ratio = 0.0
 script = ExtResource("1_ee6li")
@@ -36,3 +33,11 @@ label_settings = SubResource("LabelSettings_6c12b")
 horizontal_alignment = 1
 vertical_alignment = 1
 autowrap_mode = 3
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_right = 192.0
+offset_bottom = 123.0
+flat = true
+
+[connection signal="clue_selected" from="." to="." method="_on_clue_selected"]

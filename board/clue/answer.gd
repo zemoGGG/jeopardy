@@ -14,7 +14,7 @@ func _process(_delta):
 		answer_text.visible = true
 		
 	if Input.is_action_just_pressed("left_mouse_button"):
-		# Don't close until answer revealed
+		# Unable to close clue until answer revealed
 		if not answer_text.visible:
 			return
 		else:

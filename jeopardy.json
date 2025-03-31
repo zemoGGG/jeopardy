@@ -1,0 +1,164 @@
+{
+  "Star Wars": [
+    {
+      "question": "This furry co-pilot of the Millennium Falcon is from the planet Kashyyyk.",
+      "answer": "Chewbacca",
+      "value": 200
+    },
+    {
+      "question": "This Jedi Master trained both Obi-Wan Kenobi and Luke Skywalker.",
+      "answer": "Yoda",
+      "value": 400
+    },
+    {
+      "question": "This desert planet is home to both Anakin and Luke Skywalker.",
+      "answer": "Tatooine",
+      "value": 600
+    },
+    {
+      "question": "This smuggler famously made the Kessel Run in less than 12 parsecs.",
+      "answer": "Han Solo",
+      "value": 800
+    },
+    {
+      "question": "The name of the deadly space station that Princess Leia calls 'the ultimate weapon of destruction'.",
+      "answer": "Death Star",
+      "value": 1000
+    }
+  ],
+  "Egypt": [
+    {
+      "question": "This structure at Giza is the oldest of the Seven Wonders of the Ancient World.",
+      "answer": "Great Pyramid",
+      "value": 200
+    },
+    {
+      "question": "This river's annual flooding was essential to ancient Egyptian agriculture.",
+      "answer": "Nile",
+      "value": 400
+    },
+    {
+      "question": "This famous queen of Egypt was the last active ruler of the Ptolemaic Kingdom.",
+      "answer": "Cleopatra",
+      "value": 600
+    },
+    {
+      "question": "This creature with a human head and lion body guards the pyramids at Giza.",
+      "answer": "Sphinx",
+      "value": 800
+    },
+    {
+      "question": "This ancient Egyptian writing system used pictures and symbols.",
+      "answer": "Hieroglyphics",
+      "value": 1000
+    }
+  ],
+  "Broadway": [
+    {
+      "question": "This musical features songs like 'Memory' and is based on T.S. Eliot's poems.",
+      "answer": "Cats",
+      "value": 200
+    },
+    {
+      "question": "This hip-hop musical about a founding father premiered in 2015.",
+      "answer": "Hamilton",
+      "value": 400
+    },
+    {
+      "question": "This long-running musical features a chandelier that crashes to the stage.",
+      "answer": "The Phantom of the Opera",
+      "value": 600
+    },
+    {
+      "question": "The musical 'Wicked' tells the untold story of the witches from this land.",
+      "answer": "Oz",
+      "value": 800
+    },
+    {
+      "question": "This playwright wrote 'Death of a Salesman' and 'The Crucible'.",
+      "answer": "Arthur Miller",
+      "value": 1000
+    }
+  ],
+  "Railroads": [
+    {
+      "question": "This transcontinental railroad was completed in 1869 at Promontory Summit, Utah.",
+      "answer": "First Transcontinental Railroad",
+      "value": 200
+    },
+    {
+      "question": "This fictional train from children's literature has the number 5972.",
+      "answer": "Hogwarts Express",
+      "value": 400
+    },
+    {
+      "question": "This luxury train service ran from Paris to Istanbul and was famous for its opulence.",
+      "answer": "Orient Express",
+      "value": 600
+    },
+    {
+      "question": "This railroad's construction was the largest private sector project in U.S. history when completed in 1855.",
+      "answer": "Panama Railroad",
+      "value": 800
+    },
+    {
+      "question": "This train speed record was set by Japan's L0 Series maglev train in 2015, reaching 603 km/h.",
+      "answer": "Maglev speed record",
+      "value": 1000
+    }
+  ],
+  "Castles of the World": [
+    {
+      "question": "This famous Bavarian castle inspired Disney's Sleeping Beauty Castle.",
+      "answer": "Neuschwanstein Castle",
+      "value": 200
+    },
+    {
+      "question": "This London castle has served as a royal residence, prison, treasury, and home of the Crown Jewels.",
+      "answer": "Tower of London",
+      "value": 400
+    },
+    {
+      "question": "This Japanese castle is nicknamed the 'White Heron Castle' due to its appearance.",
+      "answer": "Himeji Castle",
+      "value": 600
+    },
+    {
+      "question": "This Czech castle is the largest ancient castle in the world according to Guinness World Records.",
+      "answer": "Prague Castle",
+      "value": 800
+    },
+    {
+      "question": "This Loire Valley castle spans the River Cher and was used as a German ammunition dump during WWII.",
+      "answer": "Château de Chenonceau",
+      "value": 1000
+    }
+  ],
+  "The Wild West": [
+    {
+      "question": "This famous gunfight took place at the O.K. Corral in Tombstone, Arizona in 1881.",
+      "answer": "Gunfight at the O.K. Corral",
+      "value": 200
+    },
+    {
+      "question": "This outlaw leader of the Wild Bunch was known as the 'Sundance Kid'.",
+      "answer": "Harry Longabaugh",
+      "value": 400
+    },
+    {
+      "question": "This law enforcement agency was formed in 1823 and is known for their white 'lone star' badge.",
+      "answer": "Texas Rangers",
+      "value": 600
+    },
+    {
+      "question": "This Native American chief led the Lakota in their victory at the Battle of Little Bighorn.",
+      "answer": "Sitting Bull",
+      "value": 800
+    },
+    {
+      "question": "This 1862 act signed by Abraham Lincoln encouraged western settlement by giving land to citizens.",
+      "answer": "Homestead Act",
+      "value": 1000
+    }
+  ]
+}

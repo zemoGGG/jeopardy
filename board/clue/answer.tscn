@@ -8,10 +8,11 @@ font_size = 24
 
 [sub_resource type="LabelSettings" id="LabelSettings_u2ke1"]
 line_spacing = 0.0
-font_size = 96
+font_size = 64
 
 [sub_resource type="LabelSettings" id="LabelSettings_g35tc"]
 font_size = 40
+font_color = Color(0.672794, 0.683652, 0.348106, 1)
 
 [node name="ClueAnswer" type="Control"]
 layout_mode = 3
